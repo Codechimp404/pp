@@ -1,3 +1,3 @@
 # pp
 
-An attempt to recreate the POCO People website 
+An attempt to recreate the a website.
