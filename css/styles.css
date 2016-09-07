@@ -12,6 +12,51 @@ html {
 	background-size: cover;
 }
 
+nav {
+	margin-top: 30px;
+}
+
+ul {
+	text-align: center;
+	margin-left: -50px;
+}
+		
+#navHeader>ul>li {
+	width: 150px;
+	min-width: 150px;
+	display: inline-block;
+	color: white;
+	vertical-align: middle;
+}
+
+#navHeader>ul>#logoLink {
+	width: 200px;
+	min-width: 200px;
+	text-align: center;
+}
+
+#navHeaderList a {
+	text-decoration: none;
+	color: white;
+}
+
+#navHeaderList a:hover {
+	text-decoration: underline;
+}
+html {
+	font-family: sans-serif;
+}
+
+#index { 
+  background: url("../assets/background.jpg") no-repeat fixed; 
+	background-size: cover;
+}
+
+#who { 
+  background: url("../assets/about.jpg") no-repeat fixed; 
+	background-size: cover;
+}
+
 #navHeaderList a {
 	text-decoration: none;
 	color: white;
