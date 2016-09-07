@@ -1,3 +1,7 @@
+html {
+	font-family: sans-serif;
+}
+
 #index { 
   background: url("../assets/background.jpg") no-repeat fixed; 
 	background-size: cover;
@@ -7,3 +11,13 @@
   background: url("../assets/about.jpg") no-repeat fixed; 
 	background-size: cover;
 }
+
+#navHeaderList a {
+	text-decoration: none;
+	color: white;
+}
+
+#navHeaderList a:hover {
+	text-decoration: underline;
+}
+
