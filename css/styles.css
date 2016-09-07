@@ -1,4 +1,9 @@
-html { 
+#index { 
   background: url("../assets/background.jpg") no-repeat fixed; 
+	background-size: cover;
+}
+
+#who { 
+  background: url("../assets/about.jpg") no-repeat fixed; 
 	background-size: cover;
 }
